@@ -33,7 +33,7 @@ subtitle = ""
   description = ""
  
 [[feature]]
-  icon = "wdl/cromwell"
+  icon = "wdl&cromwell"
   icon_pack = "fas"
   name = "wdl/cromwell"
   description = ""
