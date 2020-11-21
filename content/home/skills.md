@@ -22,19 +22,19 @@ subtitle = ""
   
 [[feature]]
   icon = "r-project"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "R"
   description = ""  
   
 [[feature]]
   icon = "docker"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Docker"
   description = ""
  
 [[feature]]
   icon = "wdl&cromwell"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "wdl/cromwell"
   description = ""
   
