@@ -15,23 +15,30 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "perl"
   icon_pack = "fab"
+  name = "Perl"
+  description = ""
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fas"
   name = "R"
-  description = "90%"
+  description = ""  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "docker"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Docker"
+  description = ""
+ 
 [[feature]]
-  icon = "camera-retro"
+  icon = "wdl/cromwell"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "wdl/cromwell"
+  description = ""
+  
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
